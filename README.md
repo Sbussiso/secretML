@@ -6,7 +6,7 @@ Primary Language: Python
 
 Data Analysis: Excel
 
-Machine Learning Framework: Scikit-learn (sklearn)
+Machine Learning Framework: Scikit-learn (sklearn) and spacCy.
 
 # Features
 Data Detection: 
