@@ -1,5 +1,5 @@
 # SecretML Overview
-SecretML is a machine learning algorithm crafted to identify confidential data within sentences and documents. It meticulously scans for traces of potential secrecy, highlighting information that can be exploited, such as Social Security numbers, credit card details, phone numbers, emails, and phrases indicative of sensitive data.
+SecretML is a machine learning algorithm crafted to identify confidential data within sentences and documents. It meticulously scans for traces of potential secrecy, highlighting information that can be exploited, such as Social Security numbers, credit card details, phone numbers, emails, and phrases indicative of a confidential nature.
 
 # Technologies
 Primary Language: Python
